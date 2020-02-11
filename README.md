@@ -1,2 +1,2 @@
 # Faculdade_HTML
-Site básico, criado apenas e HTML para exercitar conhecimentos da linguagem, site concluído.
+Site básico, criado apenas em HTML para exercitar meus conhecimentos em linguagem web, site concluído.
